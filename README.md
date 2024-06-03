@@ -109,7 +109,7 @@
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
   </a> 
 </p>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambareeshkumar&show_icons=true&locale=en&layout=compact" alt="ambareeshkumar" /></p>
+<!-- <br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambareeshkumar&show_icons=true&locale=en&layout=compact" alt="ambareeshkumar" /></p> -->
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ambareeshkumar&" alt="ambareeshkumar" /></p>
