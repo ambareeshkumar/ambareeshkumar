@@ -1,28 +1,33 @@
 <h1 align="center">Hi 👋, I'm Ambareeshkumar</h1>
 <h3 align="center">AI/ML enthusiast from India</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambareeshkumar&label=Profile%20views&color=0e75b6&style=flat" alt="ambareeshkumar" /> </p>
 
-- 🔭 I’m currently working in **CISCO Systems**
+<div style = "display: flex; ">
+  <img align = 'right' src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%576&amp;ssl=1" alt="AI Image" style="width: 500px; max-width: 100%; height: auto;" />
+  <div>
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li> I’m currently working in <strong>CISCO Systems</strong></li>
+      <li> I’m looking to collaborate on <strong>AI/ML</strong></li>
+      <li> I write articles on <a href="https://medium.com/@ambareeshkumar10">Medium</a></li>
+      <li> Ask me about <strong>Machine learning, Data analysis & NLP</strong></li>
+      <li> How to reach me: <a href="mailto:ambareeshkumar10@gmail.com">ambareeshkumar10@gmail.com</a></li>
+    </ul>
+  </div>
+</div>
 
-- 👯 I’m looking to collaborate on **AI/ML**
 
-- 📝 I write articles on [https://medium.com/@ambareeshkumar10](https://medium.com/@ambareeshkumar10)
-
-- 💬 Ask me about **Machine learning, Data analysis & NLP**
-
-- 📫 How to reach me **ambareeshkumar10@gmail.com**
-
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ambareeshkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ambareeshkumar" height="30" width="40" /></a>
 <a href="https://medium.com/@ambareeshkumar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ambareeshkumar10" height="30" width="40" /></a>
 </p>
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -104,6 +109,7 @@
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
   </a> 
 </p>
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambareeshkumar&show_icons=true&locale=en&layout=compact" alt="ambareeshkumar" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ambareeshkumar&" alt="ambareeshkumar" /></p>
